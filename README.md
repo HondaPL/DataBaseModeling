@@ -1,6 +1,6 @@
 # DataBaseModeling
 
-Projekt polegał na zamodelowaniu odpowiedniej bazy danych według danego scenariusza. Należało wykonać diagram ER (plik ERD.png), model relacyjny (plik RelationalModel.png) oraz skrypt SQL zawierający polecenia, który utworzy daną bazę danych.
+Projekt polegał na zamodelowaniu odpowiedniej bazy danych według danego scenariusza. Należało wykonać diagram ER (plik ERD.png), model relacyjny (plik RelationalModel.png) oraz skrypt SQL zawierający polecenia, który utworzy daną bazę danych (plik code.sql).
 
 Scenariusz według, którego wykonałem projekt to: 
 
